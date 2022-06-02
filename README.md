@@ -13,4 +13,4 @@ Trabalho final de disciplina de programação 1 em Python - Universidade Federal
 **Logica do código:** \
 1 - O código gera um grupo de pessoas aleatoriamente por andar, cada grupo tem sua intenção de ir para um determinado andar.\
 2 - A pessoa só entrará no elevador se ele estiver indo para o andar que ela deseja, se a pessoa quiser ir para o segundo e o elevador estiver cheio e subindo, a pessoa só vai entrar no elevador quando o elevador descer.\
-3 - O elevador para em determinado andar quando não houver mais pessoas utilizando-o.\
+3 - O elevador para em determinado andar quando não houver mais pessoas utilizando-o.
