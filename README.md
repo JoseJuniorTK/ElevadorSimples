@@ -1,6 +1,6 @@
 # ElevadorSimples
-Trabalho final de disciplina de programação 1 em Python - Universidade Federal do Pará\
-**Criado por:** José Maria Junior Lopes Perdigão.
+Projeto final de disciplina de programação 1 em Python - Universidade Federal do Pará\
+**Desenvolvido por:** José Maria Junior Lopes Perdigão. - 2019
 
 **Para utilizar apenas instale os requirements necessários e rode o ElevadorMain.py, testado apenas em sistemas UNIX (Linux)**
 **Caso a musica não funcione, instale o reprodutor multimidia VLC em seu computador**
